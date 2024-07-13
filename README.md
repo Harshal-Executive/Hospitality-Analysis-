@@ -25,6 +25,7 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 
 
 ---
+
 ## Key Learnings
 
 1. **Custom Visual Creation**: Developed a Calendar visual using a matrix table.
@@ -37,6 +38,7 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 8. **DSRN**: Calculated Daily Sellable Room Nights.
 
 ---
+
 
 ## Significant Insights from the Dashboard
 
