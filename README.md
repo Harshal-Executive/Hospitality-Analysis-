@@ -1,43 +1,71 @@
 # AtliQ Hospitality Analysis - PowerBI
 
 ## Project Overview
+
 This project focuses on a comprehensive analysis of the hospitality sector for Atliq Grands. The objective was to provide data-driven insights to guide strategic decisions and improve performance in response to declining market share and revenue.
 
+- [Link to the Challenge](#)
+- [Link to Interactive Dashboard](#)
+- [Link to Presentation Video](#)
+
 ## Problem Statement
+
 Atliq Grands, a renowned name in the luxury hotel industry in India, has been facing a decline in market share and revenue due to strategic moves by competitors and ineffective decision-making. To counter this, the management decided to leverage Business and Data Intelligence but lacked an in-house analytics team. Consequently, they sought insights from their historical data to guide their strategies and improve performance.
 
 ## Key Learnings
-1. **Custom Visual Creation**: Developed a new Calendar visual using a matrix table to analyze various aspects effectively.
-2. **Cancellation Policies**: Gained insights into industry-standard cancellation policies where most hotels charge a fee only if cancellations are made within three months of the booking date. Post this period, cancellation charges range between 60% to 90% of the booking cost.
-3. **Bookmarks and Selection**: Utilized bookmarks and selection for various functionalities, such as page navigation and filter clearing within the dashboard.
-4. **Color Palette Consistency**: Applied a cohesive color palette across the dashboard to maintain visual consistency.
+
+1. **Custom Visual Creation**: Developed a Calendar visual using a matrix table.
+2. **Cancellation Policies**: Insights into industry-standard cancellation policies.
+3. **Bookmarks and Selection**: Enhanced functionality with bookmarks for navigation.
+4. **Consistent Color Palette**: Maintained visual consistency across the dashboard.
+5. **RevPAR**: Calculated Revenue Per Available Room.
+6. **Realisation %**: Measured the successful "checked out" percentage.
+7. **ADR**: Computed the Average Daily Rate.
+8. **DSRN**: Calculated Daily Sellable Room Nights.
 
 ## Significant Insights from the Dashboard
-1. **Revenue Generation**:
-   - Mumbai is the top revenue generator with 669 Million, followed by Bangalore, Hyderabad, and Delhi.
-   - AtliQ Exotica leads among property types with 320 Million in revenue, an average rating of 3.62, an occupancy rate of 57%, and a cancellation rate of 24.4%.
-2. **Occupancy and Performance**:
-   - AtliQ Bay boasts the highest occupancy rate at 66%.
-   - Delhi excels in both occupancy and ratings, followed closely by Hyderabad, Mumbai, and Bangalore.
-   - Week 24 emerged as the peak revenue week, bringing in 139.6 Million.
-3. **Cancellation Impact**:
-   - Cancellations have led to a substantial revenue loss of approximately 298 Million.
-   - Elite type rooms have the highest booking rates and also the highest cancellation rates.
 
-## Detailed Insights and Visuals
-1. **Room Type Analysis**: Premium rooms have a higher booking frequency but also show a notable cancellation trend, indicating potential issues with booking policies or customer satisfaction.
-2. **Revenue Trends**: Seasonal trends indicate peak booking periods align with major holidays and business events, suggesting targeted marketing strategies could enhance revenue.
-3. **Customer Demographics**: Analysis of customer demographics shows a high percentage of repeat customers in Mumbai and Bangalore, highlighting the importance of loyalty programs.
+1. **Revenue Generation**:
+   - Mumbai: Top revenue generator with 669 Million.
+   - AtliQ Exotica: Leads with 320 Million in revenue, an average rating of 3.62, occupancy rate of 57%, and a cancellation rate of 24.4%.
+   - Week 24: Peak revenue week at 139.6 Million.
+   
+2. **Occupancy and Performance**:
+   - AtliQ Bay: Highest occupancy rate at 66%.
+   - Delhi: Excels in both occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
+
+3. **Cancellation Impact**:
+   - Revenue loss: Approximately 298 Million due to cancellations.
+   - Elite rooms: Highest booking and cancellation rates.
+
+4. **Room Type Analysis**:
+   - Premium rooms: High booking frequency but notable cancellation trend.
+   
+5. **Revenue Trends**:
+   - Seasonal trends: Peak booking periods align with major holidays and business events.
+
+6. **Customer Demographics**:
+   - High percentage of repeat customers in Mumbai and Bangalore, highlighting the importance of loyalty programs.
 
 ## Links
-- [Error! Hyperlink reference not valid.](#)
-- [Error! Hyperlink reference not valid.](#)
-- [Error! Hyperlink reference not valid.](#)
+- [Link to the Challenge](#)
+- [Link to Interactive Dashboard](#)
+- [Link to Presentation Video](#)
 
 ---
+
+## Repository Structure
+
+- **Data**: Contains the raw data files used for analysis.
+- **Scripts**: Includes any scripts or code used for data cleaning, transformation, and analysis.
+- **Dashboard**: Power BI dashboard file (`.pbix`) with all the visualizations and insights.
+
+## How to Use
+
+1. Clone the repository.
+2. Open the Power BI file (`.pbix`) in Power BI Desktop.
+3. Explore the different pages and visuals to understand the insights derived from the data.
 
 ## Conclusion
+
 This analysis provided Atliq Grands with critical insights into their revenue, occupancy rates, and cancellation impacts. The recommendations and data-driven decisions derived from this project aim to improve their market position and overall performance.
-
----
-
