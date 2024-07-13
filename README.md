@@ -12,6 +12,7 @@ This project focuses on a comprehensive analysis of the hospitality sector for A
 Atliq Grands, a renowned name in the luxury hotel industry in India, has been facing a decline in market share and revenue due to strategic moves by competitors and ineffective decision-making. To counter this, the management decided to leverage Business and Data Intelligence but lacked an in-house analytics team. Consequently, they sought insights from their historical data to guide their strategies and improve performance.
 
 
+
 ## Monthly View
 
 <img src="Files/Monthly.gif" class="center">
@@ -22,6 +23,8 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 <img src="Files/Overall.gif" class="center">
 
 
+
+---
 ## Key Learnings
 
 1. **Custom Visual Creation**: Developed a Calendar visual using a matrix table.
@@ -32,6 +35,8 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 6. **Realisation %**: Measured the successful "checked out" percentage.
 7. **ADR**: Computed the Average Daily Rate.
 8. **DSRN**: Calculated Daily Sellable Room Nights.
+
+---
 
 ## Significant Insights from the Dashboard
 
@@ -58,6 +63,7 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
    - High percentage of repeat customers in Mumbai and Bangalore, highlighting the importance of loyalty programs.
 
 ---
+
 
 
 ## Conclusion
