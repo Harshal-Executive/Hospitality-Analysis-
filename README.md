@@ -47,24 +47,8 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 6. **Customer Demographics**:
    - High percentage of repeat customers in Mumbai and Bangalore, highlighting the importance of loyalty programs.
 
-## Links
-- [Link to the Challenge](#)
-- [Link to Interactive Dashboard](#)
-- [Link to Presentation Video](#)
-
 ---
 
-## Repository Structure
-
-- **Data**: Contains the raw data files used for analysis.
-- **Scripts**: Includes any scripts or code used for data cleaning, transformation, and analysis.
-- **Dashboard**: Power BI dashboard file (`.pbix`) with all the visualizations and insights.
-
-## How to Use
-
-1. Clone the repository.
-2. Open the Power BI file (`.pbix`) in Power BI Desktop.
-3. Explore the different pages and visuals to understand the insights derived from the data.
 
 ## Conclusion
 
