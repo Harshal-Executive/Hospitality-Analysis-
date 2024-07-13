@@ -15,6 +15,11 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 
 <img src="Files/Monthly.gif" class="center">
 
+## Overall View
+
+<img src="Files/Overall.gif" class="center">
+
+
 ## Key Learnings
 
 1. **Custom Visual Creation**: Developed a Calendar visual using a matrix table.
