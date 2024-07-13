@@ -4,9 +4,7 @@
 
 This project focuses on a comprehensive analysis of the hospitality sector for Atliq Grands. The objective was to provide data-driven insights to guide strategic decisions and improve performance in response to declining market share and revenue.
 
-- [Link to the Challenge](#)
 - [Link to Interactive Dashboard](#)
-- [Link to Presentation Video](#)
 
 ## Problem Statement
 
