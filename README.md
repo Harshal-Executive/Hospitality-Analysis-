@@ -30,12 +30,11 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 
 1. **Custom Visual Creation**: Developed a Calendar visual using a matrix table.
 2. **Cancellation Policies**: Insights into industry-standard cancellation policies.
-3. **Bookmarks and Selection**: Enhanced functionality with bookmarks for navigation.
-4. **Consistent Color Palette**: Maintained visual consistency across the dashboard.
-5. **RevPAR**: Calculated Revenue Per Available Room.
-6. **Realisation %**: Measured the successful "checked out" percentage.
-7. **ADR**: Computed the Average Daily Rate.
-8. **DSRN**: Calculated Daily Sellable Room Nights.
+3. **RevPAR**: Calculated Revenue Per Available Room.
+4. **Realisation %**: Measured the successful "checked out" percentage.
+5. **ADR**: Computed the Average Daily Rate.
+6. **DSRN**: Calculated Daily Sellable Room Nights.
+7. **Bookmarks and Selection**: Enhanced functionality with bookmarks for navigation.
 
 ---
 
