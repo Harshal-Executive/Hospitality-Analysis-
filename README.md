@@ -42,9 +42,9 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
 ## Significant Insights from the Dashboard
 
 1. **Revenue Generation**:
-   - Mumbai: Top revenue generator with 669 Million.
-   - AtliQ Exotica: Leads with 320 Million in revenue, an average rating of 3.62, occupancy rate of 57%, and a cancellation rate of 24.4%.
-   - Week 24: Peak revenue week at 139.6 Million.
+   - Mumbai shines as the top revenue generator with 668.6 million, while Delhi had the lowest at 294.5 million.
+   - Atliq Seasons had its lowest revenue at 66.1 million, while Atliq Exotica topped the charts with an impressive 320.3 million.
+   - Week 19: Peak revenue week at 140.7 Million.
    
 2. **Occupancy and Performance**:
    - AtliQ Bay: Highest occupancy rate at 66%.
