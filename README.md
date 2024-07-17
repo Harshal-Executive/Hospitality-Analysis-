@@ -47,11 +47,11 @@ Atliq Grands, a renowned name in the luxury hotel industry in India, has been fa
    - Week 19: Peak revenue week at 140.7 Million.
    
 2. **Occupancy and Performance**:
-   - AtliQ Bay: Highest occupancy rate at 66%.
+   - Atliq Blu: Highest occupancy rate at 62.2%.
    - Delhi: Excels in both occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
 
 3. **Cancellation Impact**:
-   - Revenue loss: Approximately 298 Million due to cancellations.
+   - Revenue loss: Approximately 422.11 Million due to cancellations.
    - Elite rooms: Highest booking and cancellation rates.
 
 4. **Room Type Analysis**:
